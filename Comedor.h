@@ -1,6 +1,6 @@
 #ifndef Comedor_h
 #define Comedor_h
-#include "Persona.h"
+#include "Persona.cpp"
 #include <vector>
 #include <string>
 using namespace std;

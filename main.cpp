@@ -4,7 +4,7 @@
 #include <vector>
 #include <fstream>
 #include <limits>
-#include "Comedor.h"
+#include "Comedor.cpp"
 
 using namespace std;
 

@@ -1,6 +1,6 @@
 #ifndef Persona_h
 #define Persona_h
-#include "Comida.h"
+#include "Comida.cpp"
 #include <iostream>
 #include <string>
 using namespace std;
